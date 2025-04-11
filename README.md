@@ -11,7 +11,8 @@ time: 2025-02-17
 - 1000km以内的台站
 
 具体流程：
-![Image Description](./attachments/Pasted image 20250217172116.png)
+![Image Description](./attachments/Pasted%20image%2020250217172116.png)
+
 ### FK详细参数
 ```bash
 Usage: fk.pl -Mmodel/depth[/f_or_k] [-D] [-Hf1/f2] [-Nnt/dt/smth/dk/taper] [-Ppmin/pmax[/kmax]] [-Rrdep] [-SsrcType] [-Uupdn] [-Xcmd] distances ...
